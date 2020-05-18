@@ -1,0 +1,50 @@
+a{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
+
+div{
+
+	padding: 10px;
+	margin: 10px;
+}
+
+
+
+#wrap{
+	display: flex;
+	justify-content: center;
+	align-items: stretch;
+	width: 90%;
+	margin-left: 5%;
+
+		border-style: solid;
+	border-color: black;
+		border: 1px;
+
+}
+
+#one{
+	display: flex;
+	flex-flow: column;
+	width: 25%;
+	text-align: center;
+	background-color: grey; 
+}
+
+#two{
+	display: flex;
+	flex-flow: column;
+	width: 25%;
+	text-align: center;
+	background-color: grey; 
+}
+
+#three{
+	display: flex;
+	flex-flow: column;
+	width: 25%;
+	text-align: center;
+	background-color: grey; 
+}
