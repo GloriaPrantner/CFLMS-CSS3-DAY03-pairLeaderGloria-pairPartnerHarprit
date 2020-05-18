@@ -1,0 +1,26 @@
+body {
+	font-size: 0.8em;
+}
+
+
+#wrapping {
+	border: 1px solid black; 
+	width: 20%;
+}
+
+#title {
+	display: flex;
+	flex-direction: column;
+	border-width: 0px 0px 10px 0px;
+	border-color: black;
+	border-style: solid;
+}
+
+#title p , h1 {
+	margin: 0;
+}
+
+.top {
+	display: flex;
+	
+}
